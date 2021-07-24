@@ -2,7 +2,9 @@
 Repositório oficial de desenvolvimento e avaliação do projeto de Sistemas Embarcados 
 <br/>
 <br/>
+<p align="center">
 Trabalho escolhido - Projeto 5 
+<p/>
 <br/>
 Projeto: IHM para braço robotico de reabilitação
 <br/>
