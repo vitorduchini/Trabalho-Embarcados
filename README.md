@@ -24,7 +24,5 @@ Nomes do grupo:
 <br/>
 <br/>
 Diagrama de blocos da estrutura do projeto:
-<p align="center">
 ![image](https://user-images.githubusercontent.com/39706145/126869657-3c066a78-35e6-4c89-bddf-cab34444d952.png)
 A interface gráfica foi desenhada com o software QT
-<p/>
