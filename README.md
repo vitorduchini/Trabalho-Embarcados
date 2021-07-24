@@ -33,5 +33,5 @@ A interface gráfica foi desenhada com o software QT
 
 24/07 - Código para implementação da IHM, criada pela interface QT em C/C++, inserido no Github
 
-![image](![image](https://user-images.githubusercontent.com/39706050/126876602-470ebda6-5eef-4780-9031-f984e9746fb7.png)
+[image](https://user-images.githubusercontent.com/39706050/126876602-470ebda6-5eef-4780-9031-f984e9746fb7.png)
 
