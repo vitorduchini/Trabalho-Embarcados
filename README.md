@@ -19,7 +19,7 @@ Software: Linux, C
 <br/>
 
 Nomes do grupo: 
-<br/> Arthur Amêndola Paschoal Nº
+<br/> Arthur Amêndola Paschoal Nº Nº 10309121
 <br/> Pedro Henrique Barboza Pedrini Nº 10309034
 <br/> Vitor Hugo Barbosa Duchini Nº 9947934
 
