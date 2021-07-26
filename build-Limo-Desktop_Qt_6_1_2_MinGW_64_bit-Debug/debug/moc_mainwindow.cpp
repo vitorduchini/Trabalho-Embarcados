@@ -23,24 +23,23 @@ QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_MainWindow_t {
     const uint offsetsAndSize[12];
-    char stringdata0[123];
+    char stringdata0[85];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(offsetof(qt_meta_stringdata_MainWindow_t, stringdata0) + ofs), len 
 static const qt_meta_stringdata_MainWindow_t qt_meta_stringdata_MainWindow = {
     {
 QT_MOC_LITERAL(0, 10), // "MainWindow"
-QT_MOC_LITERAL(11, 28), // "on_pushButton_foward_clicked"
-QT_MOC_LITERAL(40, 0), // ""
-QT_MOC_LITERAL(41, 27), // "on_pushButton_right_clicked"
-QT_MOC_LITERAL(69, 26), // "on_pushButton_back_clicked"
-QT_MOC_LITERAL(96, 26) // "on_pushButton_left_clicked"
+QT_MOC_LITERAL(11, 21), // "on_pushButton_clicked"
+QT_MOC_LITERAL(33, 0), // ""
+QT_MOC_LITERAL(34, 15), // "on_back_clicked"
+QT_MOC_LITERAL(50, 18), // "on_Forward_clicked"
+QT_MOC_LITERAL(69, 15) // "on_Back_clicked"
 
     },
-    "MainWindow\0on_pushButton_foward_clicked\0"
-    "\0on_pushButton_right_clicked\0"
-    "on_pushButton_back_clicked\0"
-    "on_pushButton_left_clicked"
+    "MainWindow\0on_pushButton_clicked\0\0"
+    "on_back_clicked\0on_Forward_clicked\0"
+    "on_Back_clicked"
 };
 #undef QT_MOC_LITERAL
 
@@ -78,10 +77,10 @@ void MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         auto *_t = static_cast<MainWindow *>(_o);
         (void)_t;
         switch (_id) {
-        case 0: _t->on_pushButton_foward_clicked(); break;
-        case 1: _t->on_pushButton_right_clicked(); break;
-        case 2: _t->on_pushButton_back_clicked(); break;
-        case 3: _t->on_pushButton_left_clicked(); break;
+        case 0: _t->on_pushButton_clicked(); break;
+        case 1: _t->on_back_clicked(); break;
+        case 2: _t->on_Forward_clicked(); break;
+        case 3: _t->on_Back_clicked(); break;
         default: ;
         }
     }
