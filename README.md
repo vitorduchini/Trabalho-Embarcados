@@ -35,3 +35,10 @@ A interface gráfica foi desenhada com o software QT
 
 ![image](https://user-images.githubusercontent.com/39706050/126876602-470ebda6-5eef-4780-9031-f984e9746fb7.png)
 
+29/07 - Cliente e servidor já funcionando conectado a uma interface
+
+![Captura de tela interface](https://user-images.githubusercontent.com/39706145/127585160-d692edc2-d607-46b0-8a9a-5be835491be9.png)
+
+
+
+
