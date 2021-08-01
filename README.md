@@ -39,6 +39,8 @@ A interface gráfica foi desenhada com o software QT
 
 ![Captura de tela interface](https://user-images.githubusercontent.com/39706145/127585160-d692edc2-d607-46b0-8a9a-5be835491be9.png)
 
+*Uma possível modificação poderia ser em relação a linguagem de progrmação escolhida. Conforme discutido com grupo parceiro, implementar o protocolo TCP-IP com a interface poderia ser mais simples e possbilitar novas funcionalidades com menos complexidade
+
 Em relação as mensagens transmitidas, foi pensado em simular a transferência e recebimento de dados no modelo CANopen. Como é possível observar na imagem abaixo, retirada do documento "Manual da Comunicação CANopen" disponibilizado pela empresa WEG, a estrutura de uma informação possui 11 bits de identificador e 6 bytes de dados.
 
 ![image](https://user-images.githubusercontent.com/39706145/127787621-6e45576a-5d16-41cd-ba84-5e216427976d.png)
