@@ -39,6 +39,11 @@ A interface gráfica foi desenhada com o software QT
 
 ![Captura de tela interface](https://user-images.githubusercontent.com/39706145/127585160-d692edc2-d607-46b0-8a9a-5be835491be9.png)
 
+Em relação as mensagens transmitidas, foi pensado em simular a transferência e recebimento de dados no modelo CANopen. Como é possível observar na imagem abaixo, retirada do documento "Manual da Comunicação CANopen" disponibilizado pela empresa WEG, a estrutura de uma informação possui 11 bits de identificador e 6 bytes de dados.
 
+![image](https://user-images.githubusercontent.com/39706145/127787621-6e45576a-5d16-41cd-ba84-5e216427976d.png)
+Fonte: WEG (https://static.weg.net/medias/downloadcenter/h2f/h1a/WEG-cfw11-manual-da-comunicacao-canopen-plc11-10002134020-manual-portugues-br.pdf)
+
+A transmissão de dados numéricos através de telegramas CANopen é feita utilizando a representação hexadecimal do número, assim um exemplo de dado enviado pode ser 12345678h como na imagem acima
 
 
