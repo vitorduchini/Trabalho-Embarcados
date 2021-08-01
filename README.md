@@ -42,8 +42,13 @@ A interface gráfica foi desenhada com o software QT
 Em relação as mensagens transmitidas, foi pensado em simular a transferência e recebimento de dados no modelo CANopen. Como é possível observar na imagem abaixo, retirada do documento "Manual da Comunicação CANopen" disponibilizado pela empresa WEG, a estrutura de uma informação possui 11 bits de identificador e 6 bytes de dados.
 
 ![image](https://user-images.githubusercontent.com/39706145/127787621-6e45576a-5d16-41cd-ba84-5e216427976d.png)
+<br/>
 Fonte: WEG (https://static.weg.net/medias/downloadcenter/h2f/h1a/WEG-cfw11-manual-da-comunicacao-canopen-plc11-10002134020-manual-portugues-br.pdf)
 
-A transmissão de dados numéricos através de telegramas CANopen é feita utilizando a representação hexadecimal do número, assim um exemplo de dado enviado pode ser 12345678h como na imagem acima
+A transmissão de dados numéricos através de telegramas CANopen é feita utilizando a representação hexadecimal do número, assim um exemplo de dado enviado pode ser 12345678h como na imagem acima.
+
+Esse protocolo da WEG é a respeito do inversor de frequência CFW-11, no caso, a comunicação CANopen é para operação do cartão PLC11 que é aclopado ao CFW-11 e da possibilidade inclusive de programação em Ladder por agregar funcionalidades de um CLP. 
+
+Um inversor de frequência pode ser interessante já que ele possibilita o controle de velocidade e torque de motores de corrente alternada variando a frequência e a tensão de entrada do motor.
 
 
