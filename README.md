@@ -57,5 +57,5 @@ Com o computador conectado à máquina do laboratório através do AnyDesk, foi 
 
 ![Sistema funcionando na Colibri](https://user-images.githubusercontent.com/39706145/127898521-a1af494b-3d81-41a2-a45d-3e5f01af8e96.png)
 
-Foi utilizado o ip 172.17.2.119 para o servidor e o 172.17.2.103 para a Colibri
+Foi utilizado o ip 172.17.2.103 para o servidor e o 172.17.2.119 para a Colibri
 
