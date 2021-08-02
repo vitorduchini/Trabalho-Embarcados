@@ -53,4 +53,9 @@ Esse protocolo da WEG é a respeito do inversor de frequência CFW-11, no caso, 
 
 Um inversor de frequência pode ser interessante já que ele possibilita o controle de velocidade e torque de motores de corrente alternada variando a frequência e a tensão de entrada do motor.
 
+Com o computador conectado à máquina do laboratório através do AnyDesk, foi possível passar os códigos do GitHub para o sistema Linux da máquina e fazer a conexão cliente-servidor entre a máquina e a Colibri VF 50
+
+![Sistema funcionando na Colibri](https://user-images.githubusercontent.com/39706145/127898521-a1af494b-3d81-41a2-a45d-3e5f01af8e96.png)
+
+Foi utilizado o ip 172.17.2.119 para o servidor e o 172.17.2.103 para a Colibri
 
